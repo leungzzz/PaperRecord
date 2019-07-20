@@ -1,3 +1,18 @@
+[ECCV2014] - Blind Deblurring Using Internal Patch Recurrence
+Removing Camera Shake from a Single Photograph
+[CVPR2015] - Blur kernel estimation using normalized color-line priors
+Two-Phase Kernel Estimation for Robust Motion Deblurring
+Understanding and evaluating blind deconvolution algorithms
+[TPAMI] - Learning to Deblur Images with Exemplars
+[CVPR2011] - Blind deconvolution using a normalized sparsity measure 
+[CVPR2014] - Deblurring Text Images via L0-Regularized Intensity and Gradient Prior
+
+Blind Image Deblurring Using Dark Channel Prior (ed) [project](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
+[CVPR2017] - Image Deblurring via Extreme Channels Prior (ed)
+
+[NIPS2017] - Deep Mean-Shift Priors for Image Restoration (ed)
+
+[CVPR2018] - Learning a Discriminative Prior for Blind Image Deblurring (ed)
 [CVPR2019] - Blind Image Deblurring with Local Maximum Gradient Prior (ed)
 [CVPR2019] - Phase-only Image Based Kernel Estimation for Single Image Blind Deblurring (ed)
 [CVPR2019] - A variational EM framework with adaptive edge selection for blind motion deblurring (ing)
