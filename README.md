@@ -19,6 +19,8 @@ Record researchers and the papers published in top Conference and Magazine that 
 
 - [CVPR2015] - Blur kernel estimation using normalized color-line priors. [[project]](http://cmlab.csie.ntu.edu.tw/~jasonlai/colorline_deblur/)
 
+- [TIP2016] - Image Deblurring via Enhanced Low Rank Prior. [[projeCt]](https://sites.google.com/site/renwenqi888/research/deblurring/image-deblurring-via-elr)
+
 - [CVPR2016] - Blind Image Deblurring Using Dark Channel Prior (ed) [[projeCt]](http://vllab1.ucmerced.edu/~jinshan/projects/dark-channel-deblur/)
 
 - [CVPR2017] - Image Deblurring via Extreme Channels Prior (ed) [[projeCt]](https://sites.google.com/site/renwenqi888/research/deblurring/ecp)
