@@ -40,5 +40,12 @@ Record researchers and the papers published in top Conference and Journal that a
 
 ### Learning-based and/or Deep learning
 
+# Researchers
+### Deblurring domain: 
+1. Meiguang Jin, mainpage: https://meiguangjin.github.io/
+2. Jinshan Pan, mainpage: https://sites.google.com/site/jspanhomepage/
+3. Miaomiao Liu, mainpage: http://users.cecs.anu.edu.au/~mliu/publication.html
 
-
+### Super resolution domain: 
+1. 
+2. 
