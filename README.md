@@ -1,7 +1,7 @@
-## Paper&Researchers
+# Paper&Researchers
 Record researchers and the papers published in top Conference and Journal that about IMAGE Deblurring
 
-### Conventional and Classical
+### Conventional and Classical Deblurring methods
 
 - [SIGGRAPH2006] - Removing Camera Shake from a Single Photograph. [Rob Fergus, Barun Singh, Aaron Hertzmann, Sam T. Roweis, William T. Freeman] [[projeCt]](https://cs.nyu.edu/~fergus/research/deblur.html)
 
