@@ -1,5 +1,5 @@
 ## PaperRecord
-Record researchers and the papers published in top Conference and Magazine that i read and prepare to read
+Record researchers and the papers published in top Conference and Journal that about IMAGE Deblurring
 
 ### Conventional and Classical
 
