@@ -1,4 +1,4 @@
-## PaperRecord
+## Paper&Researchers
 Record researchers and the papers published in top Conference and Journal that about IMAGE Deblurring
 
 ### Conventional and Classical
