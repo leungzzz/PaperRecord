@@ -45,6 +45,8 @@ Record researchers and the papers published in top Conference and Journal that a
 1. Meiguang Jin, mainpage: https://meiguangjin.github.io/
 2. Jinshan Pan, mainpage: https://sites.google.com/site/jspanhomepage/
 3. Miaomiao Liu, mainpage: http://users.cecs.anu.edu.au/~mliu/publication.html
+4. Jiaya Jia, mainpage: http://jiaya.me/
+5. Weisheng Lai, mainpage： https://www.wslai.net/
 
 ### Super resolution domain: 
 1. 
